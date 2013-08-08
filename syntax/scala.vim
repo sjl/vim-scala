@@ -45,6 +45,7 @@ syn keyword scalaKeywordModifier private
 syn keyword scalaKeywordModifier protected
 syn keyword scalaKeywordModifier sealed
 syn match scalaKeyword "=>"
+syn match scalaKeyword "==>"
 syn match scalaKeyword "<-"
 syn match scalaKeyword "\<_\>"
 
